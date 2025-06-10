@@ -53,10 +53,8 @@ Here are some ideas to get you started:
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
 <br></br>
   <h3 align="left">Let's Connect</h3>
   
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/mahesh-karhale-86564b200)&nbsp;&nbsp;[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanishq252002/)&nbsp;&nbsp;
-Email: maheshkarhale21@gmail.com
-
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/mahesh-karhale-86564b200)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=maheshkarhale21@gmail.com&su=Regarding&body=Hi%20Mahesh!)
